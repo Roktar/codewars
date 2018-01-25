@@ -4,14 +4,12 @@ def solve(n) :
 
     while len(arr) >= 1 :
         arr2.append(arr[0])
-        idx = arr2[-1]
         del arr[0]
         for j in range(1, n) :
-            if len(arr) != 0 :
-                if idx == 1 or (idx*j)-j >= len(arr) :
-                    break
-                else :
-                    del arr[(idx*j)-j]
+            if arr2[-1] == 1 or (arr2[-1]*j)-j >= len(arr) :
+                break
+            else :
+                del arr[(arr2[-1]*j)-j]
     sum = 0
     for i in arr2 :
         sum += int(i)
