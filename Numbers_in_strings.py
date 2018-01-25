@@ -3,7 +3,6 @@ def solve(s) :
     sub = ""
     
     for d in s :
-        print(d)
         if ord(d) >= 48 and ord(d) <= 57 :
             sub += d
             continue
