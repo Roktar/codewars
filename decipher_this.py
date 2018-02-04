@@ -22,8 +22,7 @@ def decipher_this(string):
 
                 text.append(chr(int(num)) + tmp + ' ')
                 break
-    d = text.pop().split(' ')
-    text.append(d[0])
+    text.append(text.pop().split(' ')[0])
 
     return "".join(text)
 
