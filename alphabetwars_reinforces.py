@@ -42,18 +42,8 @@ def attack(fields, strikes) :
                 fields[0][j-1] = getRowData(fields, j-1)
             if (j+1) < bLen and fields[0][j+1] == '' :
                 fields[0][j+1] = getRowData(fields, j+1)
-    
-    returnText = ""
 
-    for j in range(len(fields[0])) :
-        rowIdx = -1
-        for i in range(len(fields)) :
-            if fields[i][j] != '' :
-                rowIdx = i
-                break
-        returnText += fields[rowIdx][j]
-
-    return returnText
+    return "".join(fields[0])
 
 reinforces=["g964xxxxxxxx",
             "myjinxin2015",
