@@ -1,7 +1,8 @@
-# Codewars에서 문제 푼 것들
+# Codewars Repository
 
-## 풀어본 문제
-- 일부 문제는 현재 검색되지 않기에 미포함 및 ~~취소선~~ 적용
+### DESCRIPTION
+- Codewars(https://www.codewars.com/kata) 에서 풀어본 문제들을 올리는 저장소.
+- 풀 때는 있었지만 지금은 검색되지 않는 문제에는 ~~취소선~~ 적용
 
 ### - Python
 __[18년 1월]__
@@ -105,5 +106,7 @@ __[18년 5월]__
   - https://www.codewars.com/kata/get-the-middle-character
 - Bingo! - 05. 14
   - https://www.codewars.com/kata/bingo
-- Digital cypher vol 2
+- Digital cypher vol 2 - 05. 16
   - https://www.codewars.com/kata/digital-cypher-vol-2
+- Convert A Hex String To RGB - 05. 16
+  - https://www.codewars.com/kata/convert-a-hex-string-to-rgb
