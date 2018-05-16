@@ -105,3 +105,5 @@ __[18년 5월]__
   - https://www.codewars.com/kata/get-the-middle-character
 - Bingo! - 05. 14
   - https://www.codewars.com/kata/bingo
+- Digital cypher vol 2
+  - https://www.codewars.com/kata/digital-cypher-vol-2
