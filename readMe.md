@@ -3,6 +3,7 @@
 ### DESCRIPTION
 - Codewars(https://www.codewars.com/kata) 에서 풀어본 문제들을 올리는 저장소.
 - 풀 때는 있었지만 지금은 검색되지 않는 문제에는 ~~취소선~~ 적용
+- repository 정리일자 : 18. 05. 16
 
 ### - Python
 __[18년 1월]__
