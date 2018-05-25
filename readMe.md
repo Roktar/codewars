@@ -111,3 +111,5 @@ __[18년 5월]__
   - https://www.codewars.com/kata/digital-cypher-vol-2
 - Convert A Hex String To RGB - 05. 16
   - https://www.codewars.com/kata/convert-a-hex-string-to-rgb
+-  Fizz/Buzz - 05. 25
+    -  https://www.codewars.com/kata/fizz-slash-buzz/train/javascript
