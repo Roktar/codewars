@@ -113,5 +113,5 @@ __[18년 5월]__
   - https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 -  Fizz/Buzz - 05. 25
     -  https://www.codewars.com/kata/fizz-slash-buzz/train/javascript
-- ■□ Pattern □■ : Wave
+- ■□ Pattern □■ : Wave - 05. 27
     - https://www.codewars.com/kata/number-number-pattern-number-number-wave/train/javascript
