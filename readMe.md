@@ -2,11 +2,12 @@
 
 ### DESCRIPTION
 - Codewars(https://www.codewars.com/kata) 에서 풀어본 문제들을 올리는 저장소.
-- 풀 때는 있었지만 지금은 검색되지 않는 문제에는 ~~취소선~~ 적용
+- 풀 때는 있었지만 정리일 기준 검색되지 않았던 문제에는 ~~취소선~~ 적용
 - repository 정리일자 : 18. 05. 16
 
-### - Python
-__[18년 1월]__
+> Python
+
+##### [18년 1월]
 - Find the odd int -01. 23
   - https://www.codewars.com/kata/find-the-odd-int
 - Single Character palindromes - 01. 24
@@ -22,7 +23,7 @@ __[18년 1월]__
 - String matchup - 01. 26
   - https://www.codewars.com/kata/string-matchup
 
-__[18년 2월]__
+##### [18년 2월]
 - Dumbphone Keypads - 02. 01
   - https://www.codewars.com/kata/dumbphone-keypads
 - Decipher This! - 02. 04
@@ -64,7 +65,7 @@ __[18년 2월]__
 - Ragbaby cipher - 02. 21
   - https://www.codewars.com/kata/ragbaby-cipher
 
-__[18년 3월]__
+##### [18년 3월]
 - Add 2 values for each - 03. 05
   - https://www.codewars.com/kata/add-2-values-for-each
 - Find divisors of a number - 03. 29
@@ -72,7 +73,7 @@ __[18년 3월]__
 - Is n divisible by(...)? - 03. 29
   - https://www.codewars.com/kata/is-n-divisible-by-dot-dot-dot
 
-__[18년 4월]__
+##### [18년 4월]
 - Cat and Mouse - 2D Version - 04. 10
   - https://www.codewars.com/kata/cat-and-mouse-2d-version
 - Check three and two - 04. 10
@@ -92,12 +93,15 @@ __[18년 4월]__
 - Cat and Mouse - Harder Version - 04. 27
   - https://www.codewars.com/kata/cat-and-mouse-harder-version
 
-__[18년 5월]__
+##### [18년 5월]
 - nth Floyd line - 05. 27
     - https://www.codewars.com/kata/nth-floyd-line
+- String Reordering - 05. 27
+    - https://www.codewars.com/kata/string-reordering
 
-### - Java
-__[18년 3월]__
+> Java
+
+##### [18년 3월]
 - Baby Magpies - 03. 19
   - https://www.codewars.com/kata/baby-magpies
 - Decode the Morse code - 03. 20
@@ -105,8 +109,9 @@ __[18년 3월]__
 - Sorted? yes? no? how? - 03. 20
   - https://www.codewars.com/kata/sorted-yes-no-how
 
-### - JavaScript
-__[18년 5월]__
+> JavaScript
+
+##### [18년 5월]
 - Get the Middle Character - 05. 01
   - https://www.codewars.com/kata/get-the-middle-character
 - Bingo! - 05. 14
