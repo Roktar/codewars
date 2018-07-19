@@ -124,3 +124,7 @@
     -  https://www.codewars.com/kata/fizz-slash-buzz/train/javascript
 - ■□ Pattern □■ : Wave - 05. 27
     - https://www.codewars.com/kata/number-number-pattern-number-number-wave/train/javascript
+
+##### [18년 7월]
+- Rail Fence Cipher: Encoding and Decoding - 18. 07. 19 (encoding)
+  - https://www.codewars.com/kata/rail-fence-cipher-encoding-and-decoding/
