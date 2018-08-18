@@ -128,3 +128,7 @@
 ##### [18년 7월]
 - Rail Fence Cipher: Encoding and Decoding - 18. 07. 19 (encoding)
   - https://www.codewars.com/kata/rail-fence-cipher-encoding-and-decoding/
+
+##### [18년 8월]
+- Missing Alphabet - 18. 08. 18
+  - https://www.codewars.com/kata/missing-alphabet/
