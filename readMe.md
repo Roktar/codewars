@@ -132,3 +132,5 @@
 ##### [18년 8월]
 - Missing Alphabet - 18. 08. 18
   - https://www.codewars.com/kata/missing-alphabet/
+- Simple letter removal - 18. 08. 25
+  - https://www.codewars.com/kata/simple-letter-removal
