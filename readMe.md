@@ -134,3 +134,5 @@
   - https://www.codewars.com/kata/missing-alphabet/
 - Simple letter removal - 18. 08. 25
   - https://www.codewars.com/kata/simple-letter-removal
+- Bubblesort Once - 18. 08. 27
+  - https://www.codewars.com/kata/bubblesort-once
