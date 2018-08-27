@@ -136,5 +136,5 @@
   - https://www.codewars.com/kata/simple-letter-removal
 - Bubblesort Once - 18. 08. 27
   - https://www.codewars.com/kata/bubblesort-once
-- Which are in?
+- Which are in? - 18. 08. 27
   - https://www.codewars.com/kata/which-are-in

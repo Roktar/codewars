@@ -19,8 +19,6 @@ function inArray(array1,array2){
           arr.push(item);
         return arr;
     }, []).sort(); */
-    
-    return array1.filter( (item, i) => {
-        return array2.findIndex( (item2, i) => item2.includes(item) ) > -1;
-      }).sort();
+
+    return array1.filter( (item, i) => array2.findIndex( (item2, i) => item2.includes(item) ) > -1 ).sort();
 }
