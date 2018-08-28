@@ -138,3 +138,5 @@
   - https://www.codewars.com/kata/bubblesort-once
 - Which are in? - 18. 08. 27
   - https://www.codewars.com/kata/which-are-in
+- Numericals of a String - 18. 08. 29
+  - https://www.codewars.com/kata/numericals-of-a-string
