@@ -140,3 +140,6 @@
   - https://www.codewars.com/kata/which-are-in
 - Numericals of a String - 18. 08. 29
   - https://www.codewars.com/kata/numericals-of-a-string
+- Battle of the characters (Easy)
+  - https://www.codewars.com/kata/battle-of-the-characters-easy
+
