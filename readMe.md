@@ -145,3 +145,9 @@
 - Reverse words - 18. 08. 31
   - https://www.codewars.com/kata/reverse-words
 
+##### [18년 9월]
+- Adding Big Numbers - 18. 09. 01
+  - https://www.codewars.com/kata/adding-big-numbers
+
+
+
