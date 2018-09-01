@@ -15,10 +15,8 @@ function add(a, b) {
 function calculateAddOperation(carry, max) {
   return function(t, v, i) {
     let st = 0;
-    if(max)
-      st = parseInt(v) + parseInt(max[i]) + carry[0];
-    else 
-      st = parseInt(v) + carry[0];
+    if(max) st = parseInt(v) + parseInt(max[i]) + carry[0];
+    else st = parseInt(v) + carry[0];
     carry[0] = parseInt(st / 10);
     t.push(parseInt(st % 10));
     return t;
