@@ -148,6 +148,9 @@
 ##### [18년 9월]
 - Adding Big Numbers - 18. 09. 01
   - https://www.codewars.com/kata/adding-big-numbers
+- Sum of odd numbers - 18. 09. 07
+  - https://www.codewars.com/kata/sum-of-odd-numbers
 
+  
 
 
