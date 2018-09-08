@@ -150,6 +150,8 @@
   - https://www.codewars.com/kata/adding-big-numbers
 - Sum of odd numbers - 18. 09. 07
   - https://www.codewars.com/kata/sum-of-odd-numbers
+- Isograms - 18. 09. 08
+  - https://www.codewars.com/kata/isograms
 
   
 
