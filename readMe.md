@@ -99,6 +99,10 @@
 - String Reordering - 05. 27
     - https://www.codewars.com/kata/string-reordering
 
+##### [18년 9월]
+- Encrypt this! - 18. 09. 12
+  - https://www.codewars.com/kata/encrypt-this
+
 > Java
 
 ##### [18년 3월]
