@@ -156,7 +156,8 @@
   - https://www.codewars.com/kata/sum-of-odd-numbers
 - Isograms - 18. 09. 08
   - https://www.codewars.com/kata/isograms
-
+- Count the Digit - 18. 09. 13
+  - https://www.codewars.com/kata/count-the-digit
   
 
 
