@@ -158,6 +158,12 @@
   - https://www.codewars.com/kata/isograms
 - Count the Digit - 18. 09. 13
   - https://www.codewars.com/kata/count-the-digit
+- Simple Fun #40: Timed Reading - 18. 09. 14
+  - https://www.codewars.com/kata/simple-fun-number-40-timed-reading
+
+
+
+
   
 
 
