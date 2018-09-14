@@ -160,7 +160,8 @@
   - https://www.codewars.com/kata/count-the-digit
 - Simple Fun #40: Timed Reading - 18. 09. 14
   - https://www.codewars.com/kata/simple-fun-number-40-timed-reading
-
+- Simple Fun #358: Vertical Histogram Of Letters - 18. 09. 14
+  - https://www.codewars.com/kata/simple-fun-number-358-vertical-histogram-of-letters
 
 
 
