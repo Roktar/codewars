@@ -162,7 +162,8 @@
   - https://www.codewars.com/kata/simple-fun-number-40-timed-reading
 - Simple Fun #358: Vertical Histogram Of Letters - 18. 09. 14
   - https://www.codewars.com/kata/simple-fun-number-358-vertical-histogram-of-letters
-
+- Triangle of Multiples (Easy One) - 18. 09. 25
+  - https://www.codewars.com/kata/triangle-of-multiples-easy-one
 
 
   
