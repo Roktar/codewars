@@ -164,8 +164,8 @@
   - https://www.codewars.com/kata/simple-fun-number-358-vertical-histogram-of-letters
 - Triangle of Multiples (Easy One) - 18. 09. 25
   - https://www.codewars.com/kata/triangle-of-multiples-easy-one
-
-
+- Thinkful - String Drills: Repeater
+  - https://www.codewars.com/kata/thinkful-string-drills-repeater
   
 
 
