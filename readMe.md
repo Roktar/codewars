@@ -168,6 +168,10 @@
   - https://www.codewars.com/kata/thinkful-string-drills-repeater
 - Shortest Word - 18. 09. 26
   - https://www.codewars.com/kata/shortest-word
+
+##### [18년 10월]
+- Array.diff - 18. 10. 3
+  - https://www.codewars.com/kata/array-dot-diff
   
 
 
