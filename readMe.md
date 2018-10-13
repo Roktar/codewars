@@ -170,10 +170,10 @@
   - https://www.codewars.com/kata/shortest-word
 
 ##### [18년 10월]
-- Array.diff - 18. 10. 3
+- Array.diff - 18. 10. 03
   - https://www.codewars.com/kata/array-dot-diff
-  
-
+- Name to Matrix - 18. 10. 13
+  - https://www.codewars.com/kata/name-to-matrix
 
 
 
