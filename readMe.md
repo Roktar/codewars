@@ -174,6 +174,8 @@
   - https://www.codewars.com/kata/array-dot-diff
 - Name to Matrix - 18. 10. 13
   - https://www.codewars.com/kata/name-to-matrix
+- Smallest possible sum - 18. 10. 18
+  - https://www.codewars.com/kata/smallest-possible-sum
 
 
 
