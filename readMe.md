@@ -178,7 +178,8 @@
   - https://www.codewars.com/kata/smallest-possible-sum
 - Gematria for all - 18. 10. 18
   - https://www.codewars.com/kata/gematria-for-all
-
+- Transpose of a Matrix - 18. 10. 18
+  - https://www.codewars.com/kata/transpose-of-a-matrix
 
 
 
