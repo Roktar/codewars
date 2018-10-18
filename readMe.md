@@ -176,6 +176,8 @@
   - https://www.codewars.com/kata/name-to-matrix
 - Smallest possible sum - 18. 10. 18
   - https://www.codewars.com/kata/smallest-possible-sum
+- Gematria for all - 18. 10. 18
+  - https://www.codewars.com/kata/gematria-for-all
 
 
 
