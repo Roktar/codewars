@@ -8,7 +8,7 @@ Array.prototype.transpose = function() {
     for(let i=0; i<this[0].length; i++) {
         let sub_arr = [];
         for(let j=0; j<this.length; j++)
-        sub_arr.push(this[j][i]);
+            sub_arr.push(this[j][i]);
         new_arr.push(sub_arr);
     }
     return new_arr;

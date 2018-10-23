@@ -180,6 +180,8 @@
   - https://www.codewars.com/kata/gematria-for-all
 - Transpose of a Matrix - 18. 10. 18
   - https://www.codewars.com/kata/transpose-of-a-matrix
+- Count the smiley faces! - 18. 10. 23
+  - https://www.codewars.com/kata/count-the-smiley-faces
 
 
 
