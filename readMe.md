@@ -182,8 +182,10 @@
   - https://www.codewars.com/kata/transpose-of-a-matrix
 - Count the smiley faces! - 18. 10. 23
   - https://www.codewars.com/kata/count-the-smiley-faces
-- Your order, please
+- Your order, please - 18. 10. 27
   - https://www.codewars.com/kata/your-order-please
+- Simple Fun #319: Number And IP Address - 18. 10. 27
+  - https://www.codewars.com/kata/simple-fun-number-319-number-and-ip-address
 
 
 
