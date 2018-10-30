@@ -186,6 +186,8 @@
   - https://www.codewars.com/kata/your-order-please
 - Simple Fun #319: Number And IP Address - 18. 10. 27
   - https://www.codewars.com/kata/simple-fun-number-319-number-and-ip-address
+- Playing with digits - 18. 10. 30
+  - https://www.codewars.com/kata/playing-with-digits
 
 
 
