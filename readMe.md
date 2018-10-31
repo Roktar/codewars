@@ -188,7 +188,8 @@
   - https://www.codewars.com/kata/simple-fun-number-319-number-and-ip-address
 - Playing with digits - 18. 10. 30
   - https://www.codewars.com/kata/playing-with-digits
-
+- WinH's Kata #2 - JavaScript Array-Parser - 18. 10. 31 (sample test) 
+  - https://www.codewars.com/kata/winhs-kata-number-2-javascript-array-parser
 
 
 
