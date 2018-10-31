@@ -191,6 +191,9 @@
 - WinH's Kata #2 - JavaScript Array-Parser - 18. 10. 31 (sample test) 
   - https://www.codewars.com/kata/winhs-kata-number-2-javascript-array-parser
 
+##### [18년 11월]
+- Replace With Alphabet Position - 18. 11. 01
+  - https://www.codewars.com/kata/replace-with-alphabet-position
 
 
 
