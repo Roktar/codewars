@@ -113,6 +113,10 @@
 - Sorted? yes? no? how? - 03. 20
   - https://www.codewars.com/kata/sorted-yes-no-how
 
+##### [18년 11월]
+- Data Reverse - 18. 11. 01
+  - https://www.codewars.com/kata/data-reverse
+
 > JavaScript
 
 ##### [18년 5월]
