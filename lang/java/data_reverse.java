@@ -30,9 +30,8 @@ public class Kata {
     int count = 0;
     
     for(int i = list.size() -1; i > -1; i--) {
-      int[] sub_array = list.get(i);
-      for(int j=0; j<sub_array.length; j++)
-        new_array[count++] = sub_array[j];
+      for(int v : list.get(i))
+        new_array[count++] = v;
     }
     
     return new_array;

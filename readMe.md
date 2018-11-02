@@ -198,6 +198,7 @@
 ##### [18년 11월]
 - Replace With Alphabet Position - 18. 11. 01
   - https://www.codewars.com/kata/replace-with-alphabet-position
-
+- Strip Comments - 18. 11. 02
+  - https://www.codewars.com/kata/strip-comments
 
 
