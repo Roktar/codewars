@@ -200,5 +200,6 @@
   - https://www.codewars.com/kata/replace-with-alphabet-position
 - Strip Comments - 18. 11. 02
   - https://www.codewars.com/kata/strip-comments
-
+- Simple transposition - 18. 11. 04
+  - https://www.codewars.com/kata/simple-transposition
 
