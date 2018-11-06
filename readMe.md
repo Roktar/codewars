@@ -202,4 +202,6 @@
   - https://www.codewars.com/kata/strip-comments
 - Simple transposition - 18. 11. 04
   - https://www.codewars.com/kata/simple-transposition
+- Reverse every other word in the string - 18. 11. 06
+  - https://www.codewars.com/kata/reverse-every-other-word-in-the-string
 
