@@ -204,4 +204,6 @@
   - https://www.codewars.com/kata/simple-transposition
 - Reverse every other word in the string - 18. 11. 06
   - https://www.codewars.com/kata/reverse-every-other-word-in-the-string
+- Find sum of top-left to bottom-right diagonals - 18. 11. 06
+  - https://www.codewars.com/kata/find-sum-of-top-left-to-bottom-right-diagonals
 
