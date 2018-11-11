@@ -206,4 +206,6 @@
   - https://www.codewars.com/kata/reverse-every-other-word-in-the-string
 - Find sum of top-left to bottom-right diagonals - 18. 11. 06
   - https://www.codewars.com/kata/find-sum-of-top-left-to-bottom-right-diagonals
+- Financing Plan on Planet XY140Z-n - 18. 11. 11
+  - https://www.codewars.com/kata/financing-plan-on-planet-xy140z-n
 
