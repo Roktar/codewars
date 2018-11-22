@@ -208,4 +208,6 @@
   - https://www.codewars.com/kata/find-sum-of-top-left-to-bottom-right-diagonals
 - Financing Plan on Planet XY140Z-n - 18. 11. 11
   - https://www.codewars.com/kata/financing-plan-on-planet-xy140z-n
+- int32 to IPv4 - 18. 11. 22
+  - https://www.codewars.com/kata/int32-to-ipv4
 
