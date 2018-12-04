@@ -211,3 +211,6 @@
 - int32 to IPv4 - 18. 11. 22
   - https://www.codewars.com/kata/int32-to-ipv4
 
+##### [18년 12월]
+- Tribonacci Sequence - 18. 12. 04
+  - https://www.codewars.com/kata/tribonacci-sequence
