@@ -214,3 +214,5 @@
 ##### [18년 12월]
 - Tribonacci Sequence - 18. 12. 04
   - https://www.codewars.com/kata/tribonacci-sequence
+- FIXME:Hello - 18. 12. 05
+  - https://www.codewars.com/kata/fixme-hello
