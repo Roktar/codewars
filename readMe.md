@@ -216,3 +216,5 @@
   - https://www.codewars.com/kata/tribonacci-sequence
 - FIXME:Hello - 18. 12. 05
   - https://www.codewars.com/kata/fixme-hello
+- Find the unique number - 18. 12. 09
+  - https://www.codewars.com/kata/find-the-unique-number-1
