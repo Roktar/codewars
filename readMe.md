@@ -220,3 +220,5 @@
   - https://www.codewars.com/kata/find-the-unique-number-1
 - Simple Fun #79: Delete a Digit - 18. 12. 16
   - https://www.codewars.com/kata/simple-fun-number-79-delete-a-digit
+- Quicksum - 18. 12. 17
+  - https://www.codewars.com/kata/quicksum
