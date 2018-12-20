@@ -222,3 +222,5 @@
   - https://www.codewars.com/kata/simple-fun-number-79-delete-a-digit
 - Quicksum - 18. 12. 17
   - https://www.codewars.com/kata/quicksum
+- Double Sort - 18. 12. 20
+  - https://www.codewars.com/kata/double-sort
