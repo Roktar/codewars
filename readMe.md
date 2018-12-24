@@ -226,3 +226,5 @@
   - https://www.codewars.com/kata/double-sort
 - My Languages - 18. 12. 20
   - https://www.codewars.com/kata/mylanguages
+- Mirroring Cipher - 18. 12. 24
+  - https://www.codewars.com/kata/mirroring-cipher
