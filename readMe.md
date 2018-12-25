@@ -228,3 +228,5 @@
   - https://www.codewars.com/kata/mylanguages
 - Mirroring Cipher - 18. 12. 24
   - https://www.codewars.com/kata/mirroring-cipher
+- Meetings - 18. 12. 25
+  - https://www.codewars.com/kata/meeting
