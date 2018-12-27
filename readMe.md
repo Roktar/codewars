@@ -230,3 +230,5 @@
   - https://www.codewars.com/kata/mirroring-cipher
 - Meetings - 18. 12. 25
   - https://www.codewars.com/kata/meeting
+- Easy Balance Checking - 18. 12. 27
+  - https://www.codewars.com/kata/easy-balance-checking
