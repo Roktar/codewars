@@ -9,7 +9,7 @@ function balance(book) {
     for(let i=1; i<arr.length; i++) {
       if(!arr[i])
         continue;
-      arr[i] = arr[i].replace(/!*=*:*;*{*}*,*[?]*/gi, "");
+      arr[i] = arr[i].replace(/[!=:;{},?]*/gi, "");
       let sub = arr[i].split(" ");
       let exp = parseFloat(sub[2]).toFixed(2);
       result += sub[0].concat(" " + sub[1] + " ") + exp + " Balance " + (bal=(bal-exp).toFixed(2)) + "\r\n";
@@ -17,7 +17,7 @@ function balance(book) {
       ctgr_cnt++;
     }
     result += "Total expense  " + tot.toFixed(2) + "\r\n";
-    result += "Average expense  " + (tot/ctgr_cnt).toFixed(2)
+    result += "Average expense  " + (tot/ctgr_cnt).toFixed(2);
   
   return result;
   }
