@@ -232,3 +232,7 @@
   - https://www.codewars.com/kata/meeting
 - Easy Balance Checking - 18. 12. 27
   - https://www.codewars.com/kata/easy-balance-checking
+
+##### [19년 1월]
+- Catalog - 19. 01. 01
+  - https://www.codewars.com/kata/catalog
