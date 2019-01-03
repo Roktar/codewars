@@ -236,3 +236,5 @@
 ##### [19년 1월]
 - Catalog - 19. 01. 01
   - https://www.codewars.com/kata/catalog
+- How many animals are there? - 19. 01. 03
+  - https://www.codewars.com/kata/how-many-animals-are-there
