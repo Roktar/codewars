@@ -238,3 +238,5 @@
   - https://www.codewars.com/kata/catalog
 - How many animals are there? - 19. 01. 03
   - https://www.codewars.com/kata/how-many-animals-are-there
+- Moves in squared strings (II) - 19. 01. 08
+  - https://www.codewars.com/kata/moves-in-squared-strings-ii
