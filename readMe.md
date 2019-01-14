@@ -242,3 +242,5 @@
   - https://www.codewars.com/kata/moves-in-squared-strings-ii
 - Framed Reflection - 19. 01. 13
   - https://www.codewars.com/kata/framed-reflection
+- CamelCase Method - 19. 01. 14
+  - https://www.codewars.com/kata/camelcase-method
