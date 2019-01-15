@@ -244,3 +244,5 @@
   - https://www.codewars.com/kata/framed-reflection
 - CamelCase Method - 19. 01. 14
   - https://www.codewars.com/kata/camelcase-method
+- Remove duplicate words - 19. 01. 15
+  - https://www.codewars.com/kata/remove-duplicate-words
