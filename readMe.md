@@ -246,3 +246,5 @@
   - https://www.codewars.com/kata/camelcase-method
 - Remove duplicate words - 19. 01. 15
   - https://www.codewars.com/kata/remove-duplicate-words
+- String ends with? - 19. 01. 16
+  - https://www.codewars.com/kata/string-ends-with
