@@ -248,3 +248,5 @@
   - https://www.codewars.com/kata/remove-duplicate-words
 - String ends with? - 19. 01. 16
   - https://www.codewars.com/kata/string-ends-with
+- Playing with passphrases - 19. 01. 17
+  - https://www.codewars.com/kata/playing-with-passphrases
