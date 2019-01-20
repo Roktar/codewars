@@ -250,3 +250,5 @@
   - https://www.codewars.com/kata/string-ends-with
 - Playing with passphrases - 19. 01. 17
   - https://www.codewars.com/kata/playing-with-passphrases
+- Credit card issuer checking - 19. 01. 20
+  - https://www.codewars.com/kata/credit-card-issuer-checking
