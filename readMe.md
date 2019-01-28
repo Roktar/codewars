@@ -254,3 +254,5 @@
   - https://www.codewars.com/kata/credit-card-issuer-checking
 - Extract the city - 19. 01. 28
   - https://www.codewars.com/kata/extract-the-city
+- Simple transposition - 19. 01. 28
+  - https://www.codewars.com/kata/simple-transposition
