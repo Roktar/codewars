@@ -252,3 +252,5 @@
   - https://www.codewars.com/kata/playing-with-passphrases
 - Credit card issuer checking - 19. 01. 20
   - https://www.codewars.com/kata/credit-card-issuer-checking
+- Extract the city - 19. 01. 28
+  - https://www.codewars.com/kata/extract-the-city
