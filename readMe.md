@@ -256,3 +256,7 @@
   - https://www.codewars.com/kata/extract-the-city
 - Simple transposition - 19. 01. 28
   - https://www.codewars.com/kata/simple-transposition
+
+##### [19년 2월]
+- Moves in squared strings(IV)
+  - https://www.codewars.com/kata/moves-in-squared-strings-iv
