@@ -258,5 +258,7 @@
   - https://www.codewars.com/kata/simple-transposition
 
 ##### [19년 2월]
-- Moves in squared strings(IV)
+- Moves in squared strings(IV) - 19. 02. 07
   - https://www.codewars.com/kata/moves-in-squared-strings-iv
+- Simple Web Framework #1: Create a basic router - 19. 02. 10
+  - https://www.codewars.com/kata/simple-web-framework-number-1-create-a-basic-router
