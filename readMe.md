@@ -262,3 +262,5 @@
   - https://www.codewars.com/kata/moves-in-squared-strings-iv
 - Simple Web Framework #1: Create a basic router - 19. 02. 10
   - https://www.codewars.com/kata/simple-web-framework-number-1-create-a-basic-router
+- Does my number look big in this? - 19. 02. 11
+  - https://www.codewars.com/kata/does-my-number-look-big-in-this
