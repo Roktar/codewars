@@ -264,3 +264,5 @@
   - https://www.codewars.com/kata/simple-web-framework-number-1-create-a-basic-router
 - Does my number look big in this? - 19. 02. 11
   - https://www.codewars.com/kata/does-my-number-look-big-in-this
+- Image host filename generator - 19. 02. 13
+  - https://www.codewars.com/kata/image-host-filename-generator/train/javascript
