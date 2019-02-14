@@ -266,3 +266,5 @@
   - https://www.codewars.com/kata/does-my-number-look-big-in-this
 - Image host filename generator - 19. 02. 13
   - https://www.codewars.com/kata/image-host-filename-generator/train/javascript
+- Help the bookseller ! - 19. 02. 14
+  - https://www.codewars.com/kata/help-the-bookseller
