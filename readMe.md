@@ -268,3 +268,5 @@
   - https://www.codewars.com/kata/image-host-filename-generator/train/javascript
 - Help the bookseller ! - 19. 02. 14
   - https://www.codewars.com/kata/help-the-bookseller
+- Mac address converter - 19. 02. 18
+  - https://www.codewars.com/kata/mac-address-converter
