@@ -278,3 +278,5 @@
   - https://www.codewars.com/kata/create-iterator
 - Find the Nexus of the Codewars Universe - 19. 03. 11
   - https://www.codewars.com/kata/find-the-nexus-of-the-codewars-universe
+- Hex Word Sum - 19. 03. 26 ~ 27
+  - https://www.codewars.com/kata/hex-word-sum
