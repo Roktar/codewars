@@ -280,3 +280,5 @@
   - https://www.codewars.com/kata/find-the-nexus-of-the-codewars-universe
 - Hex Word Sum - 19. 03. 26 ~ 27
   - https://www.codewars.com/kata/hex-word-sum
+- Mexican Wave - 19. 03. 28 ~ 29
+  - https://www.codewars.com/kata/mexican-wave
