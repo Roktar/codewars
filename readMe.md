@@ -282,3 +282,7 @@
   - https://www.codewars.com/kata/hex-word-sum
 - Mexican Wave - 19. 03. 28 ~ 29
   - https://www.codewars.com/kata/mexican-wave
+
+##### [19년 4월]
+- "this" is an other problem - 19. 04. 07
+  - https://www.codewars.com/kata/this-is-an-other-problem
