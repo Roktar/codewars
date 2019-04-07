@@ -57,7 +57,7 @@ function NamedOne(first, last) {
   });
   
   Object.defineProperty(this, "fullName", {
-    set: setValue(this, "_fullName", 'Y'),
+    set: setValue(this, "_fullName", true, 'Y'), // 세번째 파라미터 추가
     get: getValue(this, "_fullName")
   });
   
@@ -67,19 +67,22 @@ function NamedOne(first, last) {
     this.lastName = last;
 }
 
-function setValue(obj, name, fullYn) {
+function setValue(obj, name, isChain, fullYn) { // 파라미터 isChain 추가
   if(!fullYn) {
     return function(value) {
+      if(!name.includes("_")) // 추가
+        name = "_"+name; // 추가
       obj[name] = value;
-      obj.fullName = this._firstName + ' ' + this._lastName;
+      if(!isChain) // 추가
+        obj.fullName = this._firstName + ' ' + this._lastName;
     }
   } else {
     return function(value) {
       let sub = value.split(" ");
       if(sub.length === 2) {
         this._fullName = value;
-        this._firstName = sub[0];
-        this._lastName = sub[1];
+        setValue(this, "firstName", isChain)(sub[0]); // 프로퍼티 호출 방법 변경
+        setValue(this, "lastName", isChain)(sub[1]); // 프로퍼티 호출 방법 변경
       }
     }
   }

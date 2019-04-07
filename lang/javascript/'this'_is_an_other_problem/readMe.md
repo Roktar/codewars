@@ -53,3 +53,14 @@
   - firstName과 lastName의 값을 변경하려 할 때, fullName도 같이 변경되도록 하고 fullName을 변경하려할 때 firstName과 lastName도 변경되도록 하였다.
   - fullName에 값을 넣을 때, firstName과 lastName을 _가 붙은 것이 아닌 일반 프로퍼티로 호출하려했으나 순환호출이 되고 있어서 부득이하게 _를 붙인 것으로 사용하였다.
   - #2는 set과 get의 기능이 공통적이어서 해당 익명함수를 유명함수로 분리하여 setter와 getter에 해당 함수를 넘겨주었다.
+    - fullYn은 fullName의 setter가 호출될 경우에만 'Y'값이 들어간다.
+
+>변경 이력
+  - #2 소스 변경 (19. 04. 07 오후 11시 14분)
+    - fullName의 값을 변경할 때 firstName, lastName의 값을 변경하는 방법 수정
+      - 기존엔 바로 _가 붙은 키값에 넣었었지만 프로퍼티 호출하는 방법으로 하기 위해 변형
+      - setValue 함수를 한번 더 사용하여 프로퍼티를 호출하였으며, isChain이라는 변수를 추가하여 fullName의 setter에서 호출되었는지 확인하기위한 파라미터를 추가하여 넘긴다.
+      - 프로퍼티 호출을 위해 name이란 파라미터에는 _가 빠진 키값을 보냈는데, _가 없는지 체크하고 없으면 _를 붙여서 값을 저장할 수 있도록 수정.
+      - isChain의 값이 false인 경우에만 fullName 프로퍼티가 호출되도록 변경하였다.
+        - firstName이나 lastName으로 프로퍼티를 호출한 경우, isChain은 false가 되어서 정상적으로 fullName이 변경된다.
+        - fullName의 setter를 통해 firstName, lastName의 setter가 실행되는 경우, isChain은 true를 보내기때문에 해당 setter 안에서 fullName의 값을 다시 변경하지 않는다.
