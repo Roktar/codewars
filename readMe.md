@@ -286,3 +286,5 @@
 ##### [19년 4월]
 - "this" is an other problem - 19. 04. 07
   - https://www.codewars.com/kata/this-is-an-other-problem
+- RoboScript #1 - Implement Syntax Highlighting - 19. 04. 10
+  - https://www.codewars.com/kata/roboscript-number-1-implement-syntax-highlighting
