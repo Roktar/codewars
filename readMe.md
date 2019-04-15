@@ -288,3 +288,5 @@
   - https://www.codewars.com/kata/this-is-an-other-problem
 - RoboScript #1 - Implement Syntax Highlighting - 19. 04. 10
   - https://www.codewars.com/kata/roboscript-number-1-implement-syntax-highlighting
+- Bit Counting - 19. 04. 15
+  - https://www.codewars.com/kata/bit-counting
