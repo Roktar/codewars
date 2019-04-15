@@ -290,3 +290,5 @@
   - https://www.codewars.com/kata/roboscript-number-1-implement-syntax-highlighting
 - Bit Counting - 19. 04. 15
   - https://www.codewars.com/kata/bit-counting
+- Create Phone Number - 19. 04. 15
+  - https://www.codewars.com/kata/create-phone-number
