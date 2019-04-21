@@ -292,3 +292,5 @@
   - https://www.codewars.com/kata/bit-counting
 - Create Phone Number - 19. 04. 15
   - https://www.codewars.com/kata/create-phone-number
+- Who likes it? - 19. 04. 21
+  - https://www.codewars.com/kata/who-likes-it
