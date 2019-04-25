@@ -294,3 +294,5 @@
   - https://www.codewars.com/kata/create-phone-number
 - Who likes it? - 19. 04. 21
   - https://www.codewars.com/kata/who-likes-it
+- Consonant value - 19. 04. 25
+  - https://www.codewars.com/kata/consonant-value
