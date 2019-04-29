@@ -296,3 +296,5 @@
   - https://www.codewars.com/kata/who-likes-it
 - Consonant value - 19. 04. 25
   - https://www.codewars.com/kata/consonant-value
+- Upside-Down Pyramid Addition...REVERSED! - 19. 04. 29 ~ 30
+  - https://www.codewars.com/kata/upside-down-pyramid-addition-dot-dot-dot-reversed
