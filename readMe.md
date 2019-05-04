@@ -298,3 +298,7 @@
   - https://www.codewars.com/kata/consonant-value
 - Upside-Down Pyramid Addition...REVERSED! - 19. 04. 29 ~ 30
   - https://www.codewars.com/kata/upside-down-pyramid-addition-dot-dot-dot-reversed
+
+##### [19년 5월]
+- Jack & Jill's cipher - 19. 05. 04
+  - https://www.codewars.com/kata/jack-and-jills-cipher
