@@ -302,3 +302,7 @@
 ##### [19년 5월]
 - Jack & Jill's cipher - 19. 05. 04
   - https://www.codewars.com/kata/jack-and-jills-cipher
+- Next Version - 19. 05. 04
+  - https://www.codewars.com/kata/next-version
+- Paul Cipher & Kevin Arnold - 19. 05. 05
+  - https://www.codewars.com/kata/paul-cipher-and-kevin-arnold
