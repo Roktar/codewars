@@ -306,3 +306,5 @@
   - https://www.codewars.com/kata/next-version
 - Paul Cipher & Kevin Arnold - 19. 05. 05
   - https://www.codewars.com/kata/paul-cipher-and-kevin-arnold
+- Valid GB number plate? - 19. 05. 09 ~ 10
+  - https://www.codewars.com/kata/valid-gb-number-plate
