@@ -310,3 +310,5 @@
   - https://www.codewars.com/kata/valid-gb-number-plate
 - Array Deep Count - 19. 05. 19 ~ 20
   - https://www.codewars.com/kata/array-deep-count
+- IP Validation - 19. 05 .23
+  - https://www.codewars.com/kata/ip-validation
