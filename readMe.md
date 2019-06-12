@@ -312,5 +312,9 @@
   - https://www.codewars.com/kata/array-deep-count
 - IP Validation - 19. 05 .23
   - https://www.codewars.com/kata/ip-validation
-- Replace With Alphabet Position
+- Replace With Alphabet Position - 19. 05. 28
   - https://www.codewars.com/kata/replace-with-alphabet-position
+
+##### [19년 6월]
+- Alphabetized - 19. 06. 13
+  - https://www.codewars.com/kata/alphabetized
