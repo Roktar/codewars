@@ -318,3 +318,5 @@
 ##### [19년 6월]
 - Alphabetized - 19. 06. 13
   - https://www.codewars.com/kata/alphabetized
+- Valid Braces - 19. 06. 14 ~ 15
+  - https://www.codewars.com/kata/valid-braces
