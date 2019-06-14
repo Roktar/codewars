@@ -56,3 +56,4 @@
   
 
 >변경 이력
+  - v2 파일 생성 : stack 기능은 BraceStack 클래스로 분리
