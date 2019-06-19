@@ -320,3 +320,5 @@
   - https://www.codewars.com/kata/alphabetized
 - Valid Braces - 19. 06. 14 ~ 15
   - https://www.codewars.com/kata/valid-braces
+- Persistent Bugger. - 19. 06. 20
+  - https://www.codewars.com/kata/persistent-bugger
