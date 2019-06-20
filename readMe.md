@@ -322,3 +322,5 @@
   - https://www.codewars.com/kata/valid-braces
 - Persistent Bugger. - 19. 06. 20
   - https://www.codewars.com/kata/persistent-bugger
+- Simple Simple Simple String Expansion - 19. 06. 20
+  - https://www.codewars.com/kata/simple-simple-simple-string-expansion
