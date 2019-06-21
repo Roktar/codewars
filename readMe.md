@@ -324,3 +324,5 @@
   - https://www.codewars.com/kata/persistent-bugger
 - Simple Simple Simple String Expansion - 19. 06. 20
   - https://www.codewars.com/kata/simple-simple-simple-string-expansion
+- Data compression using run-length encoding - 19. 06. 21  ~ 22
+  - https://www.codewars.com/kata/data-compression-using-run-length-encoding
