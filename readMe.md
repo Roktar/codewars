@@ -326,3 +326,5 @@
   - https://www.codewars.com/kata/simple-simple-simple-string-expansion
 - Data compression using run-length encoding - 19. 06. 21  ~ 22
   - https://www.codewars.com/kata/data-compression-using-run-length-encoding
+- Parity bit - Error detecting code - 19. 06. 27
+  - https://www.codewars.com/kata/parity-bit-error-detecting-code
