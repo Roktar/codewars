@@ -32,4 +32,23 @@ function process(valid) {
   };
 }
 
+//#3
+function parityBit(binary) {
+  let binArr = binary.split(" ");
+  let iterArr = generator(binArr, "1");
+  let resArr = [];
+ 
+  for(let i=0; i<binArr.length; i++)
+    resArr.push(iterArr.next().value);
+  return resArr.join(" ");
+}
 
+function* generator(arr, tg) {
+  let count = (bin, target) => [...bin].reduce( (t, v, i) => (v===target ? t+1 : t), 0);
+  
+  for(let i=0; i<arr.length; i++) {
+    if(count(arr[i], tg) % 2)
+      arr[i] = "error-";
+    yield arr[i].substring(0, arr[i].length-1);
+  }
+};
