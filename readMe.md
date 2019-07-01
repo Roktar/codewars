@@ -328,3 +328,7 @@
   - https://www.codewars.com/kata/data-compression-using-run-length-encoding
 - Parity bit - Error detecting code - 19. 06. 27
   - https://www.codewars.com/kata/parity-bit-error-detecting-code
+
+##### [19년 7월]
+- A String of Sorts - 19. 07. 01
+  - https://www.codewars.com/kata/a-string-of-sorts
