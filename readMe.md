@@ -332,3 +332,5 @@
 ##### [19년 7월]
 - A String of Sorts - 19. 07. 01
   - https://www.codewars.com/kata/a-string-of-sorts
+- How many arguments - 19. 07. 08
+  - https://www.codewars.com/kata/how-many-arguments
