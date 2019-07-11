@@ -334,3 +334,5 @@
   - https://www.codewars.com/kata/a-string-of-sorts
 - How many arguments - 19. 07. 08
   - https://www.codewars.com/kata/how-many-arguments
+- Disarium Number (Special Numbers Series #3) - 19. 07. 12
+  - https://www.codewars.com/kata/disarium-number-special-numbers-series-number-3
