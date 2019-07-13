@@ -336,3 +336,5 @@
   - https://www.codewars.com/kata/how-many-arguments
 - Disarium Number (Special Numbers Series #3) - 19. 07. 12
   - https://www.codewars.com/kata/disarium-number-special-numbers-series-number-3
+- Poetic rhythm - 19. 07. 14
+  - https://www.codewars.com/kata/poetic-rhythm
