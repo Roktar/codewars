@@ -338,3 +338,5 @@
   - https://www.codewars.com/kata/disarium-number-special-numbers-series-number-3
 - Poetic rhythm - 19. 07. 14
   - https://www.codewars.com/kata/poetic-rhythm
+- Minimize Sum Of Array (Array Series #1) - 19. 07. 23
+  - https://www.codewars.com/kata/minimize-sum-of-array-array-series-number-1
