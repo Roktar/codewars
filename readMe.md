@@ -340,3 +340,7 @@
   - https://www.codewars.com/kata/poetic-rhythm
 - Minimize Sum Of Array (Array Series #1) - 19. 07. 23
   - https://www.codewars.com/kata/minimize-sum-of-array-array-series-number-1
+
+##### [19년 8월]
+- Name to Matrix - 19. 08. 04
+  - https://www.codewars.com/kata/name-to-matrix
