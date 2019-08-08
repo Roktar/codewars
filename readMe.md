@@ -344,3 +344,5 @@
 ##### [19년 8월]
 - Name to Matrix - 19. 08. 04
   - https://www.codewars.com/kata/name-to-matrix
+- Reverse every other word in the string - 19. 08. 08
+  - https://www.codewars.com/kata/reverse-every-other-word-in-the-string
