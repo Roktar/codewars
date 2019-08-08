@@ -1,19 +1,11 @@
-const matrixfy = str => {
-  let sz = 1;
-  
-  if(str.length === 0)
-    return 'name must be at least one letter';
-  
-  while(sz*sz < str.length)
-    sz++;
-  
-  let arr = [];
-  
-  for(let i=0; i<sz; i++) {
-    let subarr = [];
-    for(let j=0; j<sz; j++)
-      subarr.push(str[i*sz+j] || '.');
-    arr.push(subarr);
-  }
-  return arr;
-};
+function reverse(str){
+  if(!/[A-Za-z0-9]+/g.test(str))
+    return '';
+    
+  return str.split(" ").reduce( (arr, v, i) => {
+    if( (i%2) === 1 )
+      v = v.split("").reverse().join("");
+    arr.push(v);
+    return arr;
+  }, []).join(" ");
+}
