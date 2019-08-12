@@ -348,3 +348,5 @@
   - https://www.codewars.com/kata/reverse-every-other-word-in-the-string
 - Complete the table pattern - 19. 08. 11
   - https://www.codewars.com/kata/complete-the-table-pattern
+- Vending Machine - 19. 08. 12
+  - https://www.codewars.com/kata/vending-machine-2
