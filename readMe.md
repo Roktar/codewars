@@ -350,3 +350,5 @@
   - https://www.codewars.com/kata/complete-the-table-pattern
 - Vending Machine - 19. 08. 12
   - https://www.codewars.com/kata/vending-machine-2
+- Human readable duration format - 19. 08. 18
+  - https://www.codewars.com/kata/human-readable-duration-format
