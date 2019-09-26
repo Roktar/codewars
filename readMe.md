@@ -356,3 +356,5 @@
 ##### [19년 9월]
 - compute cube as sums - 19. 09. 03
   - https://www.codewars.com/kata/compute-cube-as-sums/train/javascript
+- Not very secure - 19. 09. 26
+  - https://www.codewars.com/kata/not-very-secure
