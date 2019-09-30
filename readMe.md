@@ -358,3 +358,5 @@
   - https://www.codewars.com/kata/compute-cube-as-sums/train/javascript
 - Not very secure - 19. 09. 26
   - https://www.codewars.com/kata/not-very-secure
+- FIRE and FURY - 19. 09. 30
+  - https://www.codewars.com/kata/fire-and-fury
