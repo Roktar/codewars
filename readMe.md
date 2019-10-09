@@ -360,3 +360,7 @@
   - https://www.codewars.com/kata/not-very-secure
 - FIRE and FURY - 19. 09. 30
   - https://www.codewars.com/kata/fire-and-fury
+
+##### [19년 10월]
+- Duplicate Encoder - 19. 10. 09
+  - https://www.codewars.com/kata/duplicate-encoder
