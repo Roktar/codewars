@@ -364,3 +364,5 @@
 ##### [19년 10월]
 - Duplicate Encoder - 19. 10. 09
   - https://www.codewars.com/kata/duplicate-encoder
+- Character frequency - 19. 10. 10
+  - https://www.codewars.com/kata/character-frequency-1
