@@ -366,3 +366,5 @@
   - https://www.codewars.com/kata/duplicate-encoder
 - Character frequency - 19. 10. 10
   - https://www.codewars.com/kata/character-frequency-1
+- Count letters in string - 19. 10. 16
+  - https://www.codewars.com/kata/count-letters-in-string
