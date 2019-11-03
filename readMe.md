@@ -368,3 +368,7 @@
   - https://www.codewars.com/kata/character-frequency-1
 - Count letters in string - 19. 10. 16
   - https://www.codewars.com/kata/count-letters-in-string
+
+##### [19년 11월]
+- String subpattern recognition I - 19. 11. 03 ~ 04
+  - https://www.codewars.com/kata/string-subpattern-recognition-i
