@@ -372,3 +372,5 @@
 ##### [19년 11월]
 - String subpattern recognition I - 19. 11. 03 ~ 04
   - https://www.codewars.com/kata/string-subpattern-recognition-i
+- The Supermarket Queue - 19. 11. 28
+  - https://www.codewars.com/kata/the-supermarket-queue
