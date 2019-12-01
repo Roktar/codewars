@@ -374,3 +374,7 @@
   - https://www.codewars.com/kata/string-subpattern-recognition-i
 - The Supermarket Queue - 19. 11. 28
   - https://www.codewars.com/kata/the-supermarket-queue
+
+##### [19년 12월]
+- Stringing me along - 19. 12. 01
+  - 
