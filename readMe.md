@@ -377,4 +377,6 @@
 
 ##### [19년 12월]
 - Stringing me along - 19. 12. 01
-  - 
+  - https://www.codewars.com/kata/stringing-me-along
+- Sort Arrays(Ignoring Case) - 19. 12. 11
+  - https://www.codewars.com/kata/sort-arrays-ignoring-case
