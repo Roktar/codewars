@@ -380,3 +380,5 @@
   - https://www.codewars.com/kata/stringing-me-along
 - Sort Arrays(Ignoring Case) - 19. 12. 11
   - https://www.codewars.com/kata/sort-arrays-ignoring-case
+- Who has the most money? - 19. 12. 11 ~ 12
+  - https://www.codewars.com/kata/who-has-the-most-money
