@@ -382,3 +382,7 @@
   - https://www.codewars.com/kata/sort-arrays-ignoring-case
 - Who has the most money? - 19. 12. 11 ~ 12
   - https://www.codewars.com/kata/who-has-the-most-money
+
+##### [20년 1월]
+- Interleaving Arrays - 20. 01. 06
+  - https://www.codewars.com/kata/interleaving-arrays
