@@ -386,3 +386,5 @@
 ##### [20년 1월]
 - Interleaving Arrays - 20. 01. 06
   - https://www.codewars.com/kata/interleaving-arrays
+- Pokemon Damage Calculator - 20. 01. 21
+  - https://www.codewars.com/kata/536e9a7973130a06eb000e9f
