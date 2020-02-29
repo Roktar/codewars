@@ -390,3 +390,7 @@
   - https://www.codewars.com/kata/536e9a7973130a06eb000e9f
 - Binary to Text (ASCII) Conversion - 20. 01. 22
   - https://www.codewars.com/kata/5583d268479559400d000064
+
+##### [20년 2월]
+- Split Strings - 20. 02. 29
+  - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001 
