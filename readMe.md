@@ -394,3 +394,7 @@
 ##### [20년 2월]
 - Split Strings - 20. 02. 29
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001 
+
+##### [20년 5월]
+- Split and then add both sides of an array together. - 20. 05. 13
+  - https://www.codewars.com/kata/5946a0a64a2c5b596500019a
