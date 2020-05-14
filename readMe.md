@@ -103,6 +103,10 @@
 - Encrypt this! - 18. 09. 12
   - https://www.codewars.com/kata/encrypt-this
 
+##### [20년 5월]
+- Explosive Table - 20. 05. 14
+  - https://www.codewars.com/kata/5ebad92cd3c72f00181a8a5a
+
 > Java
 
 ##### [18년 3월]
