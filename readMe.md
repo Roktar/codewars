@@ -402,3 +402,5 @@
 ##### [20년 5월]
 - Split and then add both sides of an array together. - 20. 05. 13
   - https://www.codewars.com/kata/5946a0a64a2c5b596500019a
+- Build Tower - 20. 05. 17
+  - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
