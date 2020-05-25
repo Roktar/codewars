@@ -406,3 +406,5 @@
   - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 - Delete occurrences of an element if it occurs more than n times - 20. 05. 25
   - https://www.codewars.com/kata/554ca54ffa7d91b236000023
+- Breaking search bad - 20. 05. 25
+  - https://www.codewars.com/kata/52cd53948d673a6e66000576
