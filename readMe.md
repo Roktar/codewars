@@ -404,3 +404,5 @@
   - https://www.codewars.com/kata/5946a0a64a2c5b596500019a
 - Build Tower - 20. 05. 17
   - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
+- Delete occurrences of an element if it occurs more than n times - 20. 05. 25
+  - https://www.codewars.com/kata/554ca54ffa7d91b236000023
