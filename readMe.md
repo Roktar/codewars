@@ -408,3 +408,5 @@
   - https://www.codewars.com/kata/554ca54ffa7d91b236000023
 - Breaking search bad - 20. 05. 25
   - https://www.codewars.com/kata/52cd53948d673a6e66000576
+- regex pattern to check if string has all characters - 20. 05. 26
+  - https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde
