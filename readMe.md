@@ -410,3 +410,5 @@
   - https://www.codewars.com/kata/52cd53948d673a6e66000576
 - regex pattern to check if string has all characters - 20. 05. 26
   - https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde
+- Apply offset to subtitles - 20. 05. 31
+  - https://www.codewars.com/kata/5e454bf176551c002ee36486
