@@ -412,3 +412,7 @@
   - https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde
 - Apply offset to subtitles - 20. 05. 31
   - https://www.codewars.com/kata/5e454bf176551c002ee36486
+
+##### [20년 6월]
+- Find within array - 20. 06. 01
+  - https://www.codewars.com/kata/51f082ba7297b8f07f000001
