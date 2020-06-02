@@ -416,3 +416,4 @@
 ##### [20년 6월]
 - Find within array - 20. 06. 01
   - https://www.codewars.com/kata/51f082ba7297b8f07f000001
+- The Vowel Code - 20. 06. 02
