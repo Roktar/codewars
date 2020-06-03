@@ -417,3 +417,6 @@
 - Find within array - 20. 06. 01
   - https://www.codewars.com/kata/51f082ba7297b8f07f000001
 - The Vowel Code - 20. 06. 02
+  - https://www.codewars.com/kata/53697be005f803751e0015aa
+- Most Frequent Weekdays - 20. 06. 03
+  - https://www.codewars.com/kata/56eb16655250549e4b0013f4
