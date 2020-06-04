@@ -420,3 +420,5 @@
   - https://www.codewars.com/kata/53697be005f803751e0015aa
 - Most Frequent Weekdays - 20. 06. 03
   - https://www.codewars.com/kata/56eb16655250549e4b0013f4
+- Sort sentence pseudo-alphabetically - 20. 06. 04
+  - https://www.codewars.com/kata/52dffa05467ee54b93000712
