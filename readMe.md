@@ -422,3 +422,5 @@
   - https://www.codewars.com/kata/56eb16655250549e4b0013f4
 - Sort sentence pseudo-alphabetically - 20. 06. 04
   - https://www.codewars.com/kata/52dffa05467ee54b93000712
+- Decode Diagonal - 20. 06. 07
+  - https://www.codewars.com/kata/55af0d33f9b829d0a800008d
