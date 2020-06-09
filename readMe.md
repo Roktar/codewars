@@ -424,3 +424,5 @@
   - https://www.codewars.com/kata/52dffa05467ee54b93000712
 - Decode Diagonal - 20. 06. 07
   - https://www.codewars.com/kata/55af0d33f9b829d0a800008d
+- Length Factorial Encryption - 20. 06. 10
+  - https://www.codewars.com/kata/5e9c773f33e83600146338d2
