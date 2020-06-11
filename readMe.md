@@ -428,3 +428,5 @@
   - https://www.codewars.com/kata/5e9c773f33e83600146338d2
 - Simple prime streaming - 20. 06. 10
   - https://www.codewars.com/kata/5a908da30025e995880000e3
+- Josephus Permutation - 20. 06. 11
+  - https://www.codewars.com/kata/5550d638a99ddb113e0000a2
