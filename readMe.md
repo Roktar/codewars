@@ -430,3 +430,5 @@
   - https://www.codewars.com/kata/5a908da30025e995880000e3
 - Josephus Permutation - 20. 06. 11
   - https://www.codewars.com/kata/5550d638a99ddb113e0000a2
+- Hide phone numbers - 20. 06. 14
+  - https://www.codewars.com/kata/5953e4a29e93cef2e90000aa
