@@ -432,3 +432,5 @@
   - https://www.codewars.com/kata/5550d638a99ddb113e0000a2
 - Hide phone numbers - 20. 06. 14
   - https://www.codewars.com/kata/5953e4a29e93cef2e90000aa
+- Normalizing Out of Range Array Indexes - 20. 06. 15
+  - https://www.codewars.com/kata/5285bf61f8fc1b181700024c
