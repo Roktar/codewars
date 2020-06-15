@@ -434,3 +434,5 @@
   - https://www.codewars.com/kata/5953e4a29e93cef2e90000aa
 - Normalizing Out of Range Array Indexes - 20. 06. 15
   - https://www.codewars.com/kata/5285bf61f8fc1b181700024c
+- Adjacent repeated words in a string - 20. 06. 15
+  - https://www.codewars.com/kata/5245a9138ca049e9a10007b8
