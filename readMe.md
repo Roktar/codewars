@@ -436,3 +436,5 @@
   - https://www.codewars.com/kata/5285bf61f8fc1b181700024c
 - Adjacent repeated words in a string - 20. 06. 15
   - https://www.codewars.com/kata/5245a9138ca049e9a10007b8
+- Thinking & Testing: A * B? - 20. 06. 16
+  - https://www.codewars.com/kata/5a90c9ecb171012b47000077
