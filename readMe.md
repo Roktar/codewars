@@ -438,3 +438,5 @@
   - https://www.codewars.com/kata/5245a9138ca049e9a10007b8
 - Thinking & Testing: A * B? - 20. 06. 16
   - https://www.codewars.com/kata/5a90c9ecb171012b47000077
+- Thinking & Testing : Safe position - 20. 06. 18
+  - https://www.codewars.com/kata/56f7eb14f749ba513b0009c3

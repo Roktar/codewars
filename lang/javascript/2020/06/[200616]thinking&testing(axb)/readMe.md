@@ -1,4 +1,4 @@
-# Thinking & Testing: A * B?- 20. 06. 16
+# Thinking & Testing: A * B? - 20. 06. 16
 
 이 문제는 입력값을 출력값의 형태로 만들어 반환한다.
 
