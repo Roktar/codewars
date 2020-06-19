@@ -440,3 +440,5 @@
   - https://www.codewars.com/kata/5a90c9ecb171012b47000077
 - Thinking & Testing : Safe position - 20. 06. 18
   - https://www.codewars.com/kata/56f7eb14f749ba513b0009c3
+- Boolean function truth table - 20. 06. 19
+  - https://www.codewars.com/kata/5e67ce1b32b02d0028148094
