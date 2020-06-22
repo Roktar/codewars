@@ -442,3 +442,5 @@
   - https://www.codewars.com/kata/56f7eb14f749ba513b0009c3
 - Boolean function truth table - 20. 06. 19
   - https://www.codewars.com/kata/5e67ce1b32b02d0028148094
+- Alternate capitalization - 20. 06. 22
+  - https://www.codewars.com/kata/59cfc000aeb2844d16000075
