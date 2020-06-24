@@ -444,3 +444,5 @@
   - https://www.codewars.com/kata/5e67ce1b32b02d0028148094
 - Alternate capitalization - 20. 06. 22
   - https://www.codewars.com/kata/59cfc000aeb2844d16000075
+- Dubstep - 20. 06. 24
+  - https://www.codewars.com/kata/551dc350bf4e526099000ae5
