@@ -448,3 +448,5 @@
   - https://www.codewars.com/kata/551dc350bf4e526099000ae5
 - Equal Sides Of An Array - 20. 06. 25
   - https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+- Grocer Grouping - 20. 06. 27
+  - https://www.codewars.com/kata/593c0ebf8b90525a62000221
