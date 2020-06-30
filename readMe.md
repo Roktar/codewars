@@ -452,3 +452,5 @@
   - https://www.codewars.com/kata/593c0ebf8b90525a62000221
 - search in multidimensional array - 20. 06. 28
   - https://www.codewars.com/kata/52840d2b27e9c932ff0016ae
+- Custom FizzBuzz Array - 20. 06. 30
+  - https://www.codewars.com/kata/5355a811a93a501adf000ab7
