@@ -454,3 +454,7 @@
   - https://www.codewars.com/kata/52840d2b27e9c932ff0016ae
 - Custom FizzBuzz Array - 20. 06. 30
   - https://www.codewars.com/kata/5355a811a93a501adf000ab7
+
+##### [20년 7월]
+- Bit Counting - 20. 07. 02
+  - https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript
