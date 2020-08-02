@@ -458,3 +458,7 @@
 ##### [20년 7월]
 - Bit Counting - 20. 07. 02
   - https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript
+
+##### [20년 8월]
+- New Cashier Does Not Know About Space or Shift - 20. 08. 02
+  - https://www.codewars.com/kata/5d23d89906f92a00267bb83d/train/javascript
