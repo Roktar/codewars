@@ -462,3 +462,5 @@
 ##### [20년 8월]
 - New Cashier Does Not Know About Space or Shift - 20. 08. 02
   - https://www.codewars.com/kata/5d23d89906f92a00267bb83d/train/javascript
+- int32 to IPv4 - 20. 08. 06
+  - https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/train/javascript
