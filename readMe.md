@@ -464,3 +464,5 @@
   - https://www.codewars.com/kata/5d23d89906f92a00267bb83d/train/javascript
 - int32 to IPv4 - 20. 08. 06
   - https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/train/javascript
+- Custom Christmas Tree - 20. 08. 09
+  - https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e/train/javascript
