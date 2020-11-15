@@ -466,3 +466,7 @@
   - https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/train/javascript
 - Custom Christmas Tree - 20. 08. 09
   - https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e/train/javascript
+
+##### [20년 11월]
+- Sum two arrays - 20. 11. 15
+  - https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6/train/javascript
