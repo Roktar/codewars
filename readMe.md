@@ -470,3 +470,5 @@
 ##### [20년 11월]
 - Sum two arrays - 20. 11. 15
   - https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6/train/javascript
+- Guitar Tab Transcriber - 20. 11. 16
+  - https://www.codewars.com/kata/5ae24f79c5a452e1780000ad/train/javascript
