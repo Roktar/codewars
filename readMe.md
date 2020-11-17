@@ -472,3 +472,5 @@
   - https://www.codewars.com/kata/59c3e8c9f5d5e40cab000ca6/train/javascript
 - Guitar Tab Transcriber - 20. 11. 16
   - https://www.codewars.com/kata/5ae24f79c5a452e1780000ad/train/javascript
+- Array combinations - 20. 11. 17
+  - https://www.codewars.com/kata/59e66e48fc3c499ec5000103/train/javascript
