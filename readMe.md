@@ -474,3 +474,5 @@
   - https://www.codewars.com/kata/5ae24f79c5a452e1780000ad/train/javascript
 - Array combinations - 20. 11. 17
   - https://www.codewars.com/kata/59e66e48fc3c499ec5000103/train/javascript
+- Return String As Sorted Blocks - 20. 11. 21
+  - https://www.codewars.com/kata/5e0f6a3a2964c800238ca87d/train/javascript
