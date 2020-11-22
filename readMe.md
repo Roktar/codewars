@@ -476,3 +476,5 @@
   - https://www.codewars.com/kata/59e66e48fc3c499ec5000103/train/javascript
 - Return String As Sorted Blocks - 20. 11. 21
   - https://www.codewars.com/kata/5e0f6a3a2964c800238ca87d/train/javascript
+- Wave Sorting - 20. 11. 22
+  - https://www.codewars.com/kata/596f28fd9be8ebe6ec0000c1/train/javascript
