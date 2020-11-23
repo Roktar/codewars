@@ -478,3 +478,5 @@
   - https://www.codewars.com/kata/5e0f6a3a2964c800238ca87d/train/javascript
 - Wave Sorting - 20. 11. 22
   - https://www.codewars.com/kata/596f28fd9be8ebe6ec0000c1/train/javascript
+- Simple frequency sort - 20. 11. 23
+  - https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript
