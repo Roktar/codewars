@@ -480,3 +480,5 @@
   - https://www.codewars.com/kata/596f28fd9be8ebe6ec0000c1/train/javascript
 - Simple frequency sort - 20. 11. 23
   - https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc/train/javascript
+- Backspaces in string - 20. 11. 24
+  - https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript
