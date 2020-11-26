@@ -484,3 +484,5 @@
   - https://www.codewars.com/kata/5727bb0fe81185ae62000ae3/train/javascript
 - Error correction #1 - Hamming Code - 20. 11. 25
   - https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e/train/javascript
+- Multiplication table - 20. 11. 26
+  - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript
