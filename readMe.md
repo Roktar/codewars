@@ -486,3 +486,5 @@
   - https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e/train/javascript
 - Multiplication table - 20. 11. 26
   - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript
+- Remove an Specific Element of an Array - 20. 11. 29
+  - https://www.codewars.com/kata/581bb3c1c221fb8e790001ef/train/javascript
