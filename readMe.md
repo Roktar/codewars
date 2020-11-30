@@ -488,3 +488,5 @@
   - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript
 - Remove an Specific Element of an Array - 20. 11. 29
   - https://www.codewars.com/kata/581bb3c1c221fb8e790001ef/train/javascript
+- Simple string indices - 20. 11. 30
+  - https://www.codewars.com/kata/5a24254fe1ce0ec2eb000078/train/javascript
