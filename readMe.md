@@ -490,3 +490,7 @@
   - https://www.codewars.com/kata/581bb3c1c221fb8e790001ef/train/javascript
 - Simple string indices - 20. 11. 30
   - https://www.codewars.com/kata/5a24254fe1ce0ec2eb000078/train/javascript
+
+##### [20년 11월]
+- Tracking Sums in a Process - 20. 12. 01
+  - 
