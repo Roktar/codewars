@@ -493,4 +493,6 @@
 
 ##### [20년 11월]
 - Tracking Sums in a Process - 20. 12. 01
-  - 
+  - https://www.codewars.com/kata/56dbb6603e5dd6543c00098d/train/javascript
+- Pyramid Array - 20. 12. 02
+  - https://www.codewars.com/kata/515f51d438015969f7000013/train/javascript
