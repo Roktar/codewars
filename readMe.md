@@ -498,3 +498,5 @@
   - https://www.codewars.com/kata/515f51d438015969f7000013/train/javascript
 - Maximum Multiple - 20. 12. 06
   - https://www.codewars.com/kata/5aba780a6a176b029800041c/train/javascript
+- A Rule of Divisibility by 13 - 20. 12. 07
+  - https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/javascript
