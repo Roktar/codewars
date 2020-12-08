@@ -502,3 +502,5 @@
   - https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/javascript
 - Detect Pangram - 20. 12. 08
   - https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript
+- IQ Test - 20. 12. 08
+  - https://www.codewars.com/kata/552c028c030765286c00007d/train/javascript
