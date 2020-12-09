@@ -504,3 +504,5 @@
   - https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript
 - IQ Test - 20. 12. 08
   - https://www.codewars.com/kata/552c028c030765286c00007d/train/javascript
+- Unique In Order - 20. 12. 09
+  - https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript
