@@ -506,3 +506,5 @@
   - https://www.codewars.com/kata/552c028c030765286c00007d/train/javascript
 - Unique In Order - 20. 12. 09
   - https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript
+- Vasya - Clerk - 20. 12. 10
+  - https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript
