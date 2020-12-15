@@ -510,3 +510,5 @@
   - https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript
 - Split Strings - 20. 12. 15
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
+- ISBN-10 Validation - 20. 12. 15
+  - https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/javascript
