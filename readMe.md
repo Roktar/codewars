@@ -508,3 +508,5 @@
   - https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript
 - Vasya - Clerk - 20. 12. 10
   - https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript
+- Split Strings - 20. 12. 15
+  - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
