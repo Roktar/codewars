@@ -491,7 +491,7 @@
 - Simple string indices - 20. 11. 30
   - https://www.codewars.com/kata/5a24254fe1ce0ec2eb000078/train/javascript
 
-##### [20년 11월]
+##### [20년 12월]
 - Tracking Sums in a Process - 20. 12. 01
   - https://www.codewars.com/kata/56dbb6603e5dd6543c00098d/train/javascript
 - Pyramid Array - 20. 12. 03
@@ -512,3 +512,7 @@
   - https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
 - ISBN-10 Validation - 20. 12. 15
   - https://www.codewars.com/kata/51fc12de24a9d8cb0e000001/train/javascript
+
+##### [21년 1월]
+- Consecutive Count - 21. 01. 12
+  - https://www.codewars.com/kata/59c3e819d751df54e9000098/train/javascript
