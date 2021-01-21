@@ -516,3 +516,5 @@
 ##### [21년 1월]
 - Consecutive Count - 21. 01. 12
   - https://www.codewars.com/kata/59c3e819d751df54e9000098/train/javascript
+- Message Validator - 21. 01. 22
+  - https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/train/javascript
