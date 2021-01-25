@@ -518,3 +518,5 @@
   - https://www.codewars.com/kata/59c3e819d751df54e9000098/train/javascript
 - Message Validator - 21. 01. 22
   - https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/train/javascript
+- Upside down numbers - 21. 01. 25
+  - https://www.codewars.com/kata/59f7597716049833200001eb/train/javascript
