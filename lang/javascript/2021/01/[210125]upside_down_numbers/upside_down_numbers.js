@@ -19,7 +19,7 @@ function solve(x, y) {
     if(s.some( (v, j) => (v != numberTable[r[j]])) )
       continue;
   
-    cnt++;
+    cnt++; 
   }
   
   return cnt;
