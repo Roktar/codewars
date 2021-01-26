@@ -520,3 +520,5 @@
   - https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/train/javascript
 - Upside down numbers - 21. 01. 25
   - https://www.codewars.com/kata/59f7597716049833200001eb/train/javascript
+- Take a Ten Minute Walk - 21. 01. 26
+  - https://www.codewars.com/kata/54da539698b8a2ad76000228/train/javascript
