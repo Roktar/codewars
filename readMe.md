@@ -522,3 +522,7 @@
   - https://www.codewars.com/kata/59f7597716049833200001eb/train/javascript
 - Take a Ten Minute Walk - 21. 01. 26
   - https://www.codewars.com/kata/54da539698b8a2ad76000228/train/javascript
+
+##### [21년 4월]
+- Inside Out Strings - 21. 04. 07
+  - https://www.codewars.com/kata/57ebdf1c2d45a0ecd7002cd5/train/javascript
