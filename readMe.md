@@ -528,3 +528,7 @@
   - https://www.codewars.com/kata/57ebdf1c2d45a0ecd7002cd5/train/javascript
 - All Star Code Challenge #15 - 21. 04. 11
   - https://www.codewars.com/kata/586560a639c5ab3a260000f3/train/javascript
+
+  ##### [21년 5월]
+- Swap Case Using N - 21. 05. 24
+  - https://www.codewars.com/kata/5f3afc40b24f090028233490/train/javascript
