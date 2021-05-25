@@ -532,3 +532,5 @@
   ##### [21년 5월]
 - Swap Case Using N - 21. 05. 24
   - https://www.codewars.com/kata/5f3afc40b24f090028233490/train/javascript
+- Turn String Input into Hash - 21. 05. 25
+  - https://www.codewars.com/kata/52180ce6f626d55cf8000071/train/javascript
