@@ -534,3 +534,5 @@
   - https://www.codewars.com/kata/5f3afc40b24f090028233490/train/javascript
 - Turn String Input into Hash - 21. 05. 25
   - https://www.codewars.com/kata/52180ce6f626d55cf8000071/train/javascript
+- Break camelCase - 21. 05. 28
+  - https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript
