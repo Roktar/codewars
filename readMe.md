@@ -536,3 +536,7 @@
   - https://www.codewars.com/kata/52180ce6f626d55cf8000071/train/javascript
 - Break camelCase - 21. 05. 28
   - https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript
+
+  ##### [21년 6월]
+- Where my anagrams at? - 21. 06. 09
+  - https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript
