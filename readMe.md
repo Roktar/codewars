@@ -529,7 +529,7 @@
 - All Star Code Challenge #15 - 21. 04. 11
   - https://www.codewars.com/kata/586560a639c5ab3a260000f3/train/javascript
 
-  ##### [21년 5월]
+##### [21년 5월]
 - Swap Case Using N - 21. 05. 24
   - https://www.codewars.com/kata/5f3afc40b24f090028233490/train/javascript
 - Turn String Input into Hash - 21. 05. 25
@@ -537,6 +537,8 @@
 - Break camelCase - 21. 05. 28
   - https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript
 
-  ##### [21년 6월]
+##### [21년 6월]
 - Where my anagrams at? - 21. 06. 09
   - https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript
+- Common directory path - 21. 06. 17
+  - https://www.codewars.com/kata/597f334f1fe82a950500004b/train/javascript
