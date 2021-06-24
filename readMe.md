@@ -542,3 +542,5 @@
   - https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript
 - Common directory path - 21. 06. 17
   - https://www.codewars.com/kata/597f334f1fe82a950500004b/train/javascript
+- Sort the odd - 21. 06. 24
+  - https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript
