@@ -546,3 +546,7 @@
   - https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/train/javascript
 - HTML dynamic color string generation - 21. 06. 28
   - https://www.codewars.com/kata/56f1c6034d0c330e4a001059/train/javascript
+
+##### [21년 7월]
+- Disgruntled Employee - 21. 07. 18
+  - https://www.codewars.com/kata/541103f0a0e736c8e40011d5/train/javascript
