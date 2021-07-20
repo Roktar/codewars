@@ -550,3 +550,5 @@
 ##### [21년 7월]
 - Disgruntled Employee - 21. 07. 18
   - https://www.codewars.com/kata/541103f0a0e736c8e40011d5/train/javascript
+- Sort the number sequence - 21. 07. 20
+  - https://www.codewars.com/kata/5816b76988ca9613cc00024f/train/javascript
