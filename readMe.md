@@ -552,3 +552,5 @@
   - https://www.codewars.com/kata/541103f0a0e736c8e40011d5/train/javascript
 - Sort the number sequence - 21. 07. 20
   - https://www.codewars.com/kata/5816b76988ca9613cc00024f/train/javascript
+- Inverted Ranges - 21. 07. 25
+  - https://www.codewars.com/kata/60db06ded6c39e002ee35910/train/javascript
