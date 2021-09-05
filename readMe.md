@@ -554,3 +554,7 @@
   - https://www.codewars.com/kata/5816b76988ca9613cc00024f/train/javascript
 - Inverted Ranges - 21. 07. 25
   - https://www.codewars.com/kata/60db06ded6c39e002ee35910/train/javascript
+
+##### [21년 9월]
+- Halving Sum - 21. 09. 05
+  - https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/javascript
