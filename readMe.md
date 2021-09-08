@@ -558,3 +558,5 @@
 ##### [21년 9월]
 - Halving Sum - 21. 09. 05
   - https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/javascript
+- Fold an array - 21. 09. 08
+  - https://www.codewars.com/kata/57ea70aa5500adfe8a000110/train/javascript
