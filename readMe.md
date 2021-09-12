@@ -560,3 +560,5 @@
   - https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/javascript
 - Fold an array - 21. 09. 08
   - https://www.codewars.com/kata/57ea70aa5500adfe8a000110/train/javascript
+- Character with longest consecutive repetition - 21. 09. 12
+  - https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript
