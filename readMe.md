@@ -562,3 +562,5 @@
   - https://www.codewars.com/kata/57ea70aa5500adfe8a000110/train/javascript
 - Character with longest consecutive repetition - 21. 09. 12
   - https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript
+- Range Extraction - 21. 09. 14
+  - https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript
