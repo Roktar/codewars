@@ -15,4 +15,3 @@ function solution(list){
   
   return values.join`,`;
 }
-

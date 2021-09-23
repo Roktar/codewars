@@ -564,3 +564,5 @@
   - https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/javascript
 - Range Extraction - 21. 09. 14
   - https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript
+- Last Survivor - 21. 09. 24
+  - https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript
