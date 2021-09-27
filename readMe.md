@@ -566,3 +566,5 @@
   - https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/javascript
 - Last Survivor - 21. 09. 24
   - https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript
+- Scramblies - 21. 09. 27
+  - https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript
