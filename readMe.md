@@ -568,3 +568,5 @@
   - https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript
 - Scramblies - 21. 09. 27
   - https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript
+- Row of the odd triangle - 21. 09. 29 ~ 30
+  - https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/train/javascript
