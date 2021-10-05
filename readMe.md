@@ -570,3 +570,7 @@
   - https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/javascript
 - Row of the odd triangle - 21. 09. 29 ~ 30
   - https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/train/javascript
+
+##### [21년 10월]
+- ASCII Fun #1: X- Shape - 21. 10. 05
+  - https://www.codewars.com/kata/5906436806d25f846400009b/train/javascript
