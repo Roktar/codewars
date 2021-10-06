@@ -574,3 +574,5 @@
 ##### [21년 10월]
 - ASCII Fun #1: X- Shape - 21. 10. 05
   - https://www.codewars.com/kata/5906436806d25f846400009b/train/javascript
+- ASCII Fun #2: Funny Dots - 21. 10. 06
+  - https://www.codewars.com/kata/59098c39d8d24d12b6000020/train/javascript
