@@ -577,4 +577,6 @@
 - ASCII Fun #2: Funny Dots - 21. 10. 06
   - https://www.codewars.com/kata/59098c39d8d24d12b6000020/train/javascript
 - Bowling Pins - 21. 10. 08
-- https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010/train/javascript
+  - https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010/train/javascript
+- Uncollapse Digits - 21. 10. 13
+  - https://www.codewars.com/kata/5a626fc7fd56cb63c300008c/train/javascript
