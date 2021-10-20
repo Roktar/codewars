@@ -580,3 +580,5 @@
   - https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010/train/javascript
 - Uncollapse Digits - 21. 10. 13
   - https://www.codewars.com/kata/5a626fc7fd56cb63c300008c/train/javascript
+- ASCII Fun #4: Build a pyramid - 21. 10. 20
+  - https://www.codewars.com/kata/594a5d8f704e4d5561000019/train/javascript
