@@ -121,6 +121,11 @@
 - Data Reverse - 18. 11. 01
   - https://www.codewars.com/kata/data-reverse
 
+##### [21년 10월]
+- Count a Spiral - 21. 10. 26
+  - https://www.codewars.com/kata/61559bc4ead5b1004f1aba83/train/java
+
+
 > JavaScript
 
 ##### [18년 5월]
