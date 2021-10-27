@@ -589,3 +589,5 @@
   - https://www.codewars.com/kata/594a5d8f704e4d5561000019/train/javascript
 - World Bits War - 21. 10. 24
   - https://www.codewars.com/kata/58865bfb41e04464240000b0/train/javascript
+- Multiples of 3 or 5 - 21. 10. 27
+  - https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
