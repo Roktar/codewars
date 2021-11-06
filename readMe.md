@@ -591,3 +591,7 @@
   - https://www.codewars.com/kata/58865bfb41e04464240000b0/train/javascript
 - Multiples of 3 or 5 - 21. 10. 27
   - https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
+
+##### [21년 11월]
+- Sequences and Series - 21. 11. 06
+  - https://www.codewars.com/kata/5254bd1357d59fbbe90001ec/train/javascript
