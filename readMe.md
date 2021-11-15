@@ -595,3 +595,5 @@
 ##### [21년 11월]
 - Sequences and Series - 21. 11. 06
   - https://www.codewars.com/kata/5254bd1357d59fbbe90001ec/train/javascript
+- Pizza pieces - 21. 11. 15
+  - https://www.codewars.com/kata/5551dc71101b2cf599000023/train/javascript
