@@ -597,3 +597,5 @@
   - https://www.codewars.com/kata/5254bd1357d59fbbe90001ec/train/javascript
 - Pizza pieces - 21. 11. 15
   - https://www.codewars.com/kata/5551dc71101b2cf599000023/train/javascript
+- Consonant value - 21. 11. 16
+  - https://www.codewars.com/kata/59c633e7dcc4053512000073/train/javascript
