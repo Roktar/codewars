@@ -599,5 +599,7 @@
   - https://www.codewars.com/kata/5551dc71101b2cf599000023/train/javascript
 - Consonant value - 21. 11. 16
   - https://www.codewars.com/kata/59c633e7dcc4053512000073/train/javascript
-- Does my number look big in this?
+- Does my number look big in this? - 21. 11. 24
   - https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript
+- Valid Parentheses - 21. 11. 28
+  - https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript
