@@ -603,3 +603,7 @@
   - https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript
 - Valid Parentheses - 21. 11. 28
   - https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript
+
+##### [22년 1월]
+- Padovan numbers - 22. 01. 02
+  - https://www.codewars.com/kata/5803ee0ed5438edcc9000087/train/javascript
