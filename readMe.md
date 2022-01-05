@@ -607,3 +607,5 @@
 ##### [22년 1월]
 - Padovan numbers - 22. 01. 02
   - https://www.codewars.com/kata/5803ee0ed5438edcc9000087/train/javascript
+- Buying a car - 22. 01. 05
+  - https://www.codewars.com/kata/554a44516729e4d80b000012/train/javascript
