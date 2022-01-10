@@ -609,3 +609,5 @@
   - https://www.codewars.com/kata/5803ee0ed5438edcc9000087/train/javascript
 - Buying a car - 22. 01. 05
   - https://www.codewars.com/kata/554a44516729e4d80b000012/train/javascript
+- Convert ISBN-10 to ISBN-13 - 22. 01. 10
+  - https://www.codewars.com/kata/61ce25e92ca4fb000f689fb0/train/javascript
