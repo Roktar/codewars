@@ -611,3 +611,5 @@
   - https://www.codewars.com/kata/554a44516729e4d80b000012/train/javascript
 - Convert ISBN-10 to ISBN-13 - 22. 01. 10
   - https://www.codewars.com/kata/61ce25e92ca4fb000f689fb0/train/javascript
+- Replace With Alphabet Position - 22. 01. 18
+  - https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript
