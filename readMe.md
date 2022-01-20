@@ -613,3 +613,5 @@
   - https://www.codewars.com/kata/61ce25e92ca4fb000f689fb0/train/javascript
 - Replace With Alphabet Position - 22. 01. 18
   - https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript
+- Linked Lists - Length & Count - 22. 01. 20
+  - https://www.codewars.com/kata/55beec7dd347078289000021/train/javascript
