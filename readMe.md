@@ -615,3 +615,7 @@
   - https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript
 - Linked Lists - Length & Count - 22. 01. 20
   - https://www.codewars.com/kata/55beec7dd347078289000021/train/javascript
+
+##### [22년 2월]
+- Coding Meetup #2 - Higher-Order Functions Series - Greet developers - 22. 02. 03
+  - https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript
