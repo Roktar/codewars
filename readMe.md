@@ -619,3 +619,5 @@
 ##### [22년 2월]
 - Coding Meetup #2 - Higher-Order Functions Series - Greet developers - 22. 02. 03
   - https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript
+- Doors in the school - 22. 02. 13
+  - https://www.codewars.com/kata/57c15d314677bb2bd4000017
