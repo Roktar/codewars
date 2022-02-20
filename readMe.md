@@ -621,3 +621,5 @@
   - https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript
 - Doors in the school - 22. 02. 13
   - https://www.codewars.com/kata/57c15d314677bb2bd4000017
+- Find the unique number - 22. 02. 20
+  - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript
