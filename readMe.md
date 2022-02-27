@@ -625,3 +625,5 @@
   - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript
 - Assemble string - 22. 02. 25
   - https://www.codewars.com/kata/6210fb7aabf047000f3a3ad6/train/javascript
+- Counting DNA Nucleotides - 22. 02. 27
+  - https://www.codewars.com/kata/52e84c460d83dd96e50000dd/train/javascript
