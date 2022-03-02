@@ -627,3 +627,7 @@
   - https://www.codewars.com/kata/6210fb7aabf047000f3a3ad6/train/javascript
 - Counting DNA Nucleotides - 22. 02. 27
   - https://www.codewars.com/kata/52e84c460d83dd96e50000dd/train/javascript
+
+##### [22년 3월]
+- Data Reverse - 22. 03. 02
+  - https://www.codewars.com/kata/569d488d61b812a0f7000015/train/javascript
