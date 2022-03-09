@@ -633,3 +633,5 @@
   - https://www.codewars.com/kata/569d488d61b812a0f7000015/train/javascript
 - Zozonacci - 22. 03. 06
   - https://www.codewars.com/kata/5b7c80094a6aca207000004d/train/javascript
+- Numerology - 22. 03. 09
+  - https://www.codewars.com/kata/525b4164eb636fb2f90002a0/train/javascript
