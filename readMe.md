@@ -635,3 +635,5 @@
   - https://www.codewars.com/kata/5b7c80094a6aca207000004d/train/javascript
 - Numerology - 22. 03. 09
   - https://www.codewars.com/kata/525b4164eb636fb2f90002a0/train/javascript
+- Delete occurrences of an element if it occurs more than n times - 22. 03. 13
+  - https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript
