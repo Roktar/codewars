@@ -637,3 +637,5 @@
   - https://www.codewars.com/kata/525b4164eb636fb2f90002a0/train/javascript
 - Delete occurrences of an element if it occurs more than n times - 22. 03. 13
   - https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript
+- IP Address to Number - 22. 03. 13
+  - https://www.codewars.com/kata/541a354c39c5efa5fa001372/train/javascript
