@@ -639,3 +639,7 @@
   - https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript
 - IP Address to Number - 22. 03. 13
   - https://www.codewars.com/kata/541a354c39c5efa5fa001372/train/javascript
+
+##### [22년 4월]
+- Tree to list - 22. 04. 05
+  - https://www.codewars.com/kata/56ef9790740d30a7ff000199/train/javascript
