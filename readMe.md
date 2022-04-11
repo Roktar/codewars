@@ -643,3 +643,5 @@
 ##### [22년 4월]
 - Tree to list - 22. 04. 05
   - https://www.codewars.com/kata/56ef9790740d30a7ff000199/train/javascript
+- Matrix Transpose - 22. 04. 12
+  - https://www.codewars.com/kata/52fba2a9adcd10b34300094c/train/javascript
