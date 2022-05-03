@@ -651,3 +651,7 @@
   - https://www.codewars.com/kata/5259acb16021e9d8a60010af/train/javascript
 - If you can read this... - 22. 04. 24
   - https://www.codewars.com/kata/586538146b56991861000293/train/javascript
+
+  ##### [22년 5월]
+- Highest Scoring Word - 22. 05. 03
+  - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
