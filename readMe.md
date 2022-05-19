@@ -655,3 +655,5 @@
   ##### [22년 5월]
 - Highest Scoring Word - 22. 05. 03
   - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
+- Run-length encoding - 22. 05. 19
+  - https://www.codewars.com/kata/546dba39fa8da224e8000467/train/javascript
