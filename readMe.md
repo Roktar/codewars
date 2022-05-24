@@ -657,3 +657,5 @@
   - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
 - Run-length encoding - 22. 05. 19
   - https://www.codewars.com/kata/546dba39fa8da224e8000467/train/javascript
+- Surrounding Primes for a value - 22. 05. 24
+  - https://www.codewars.com/kata/560b8d7106ede725dd0000e2/train/javascript
