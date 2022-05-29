@@ -659,3 +659,5 @@
   - https://www.codewars.com/kata/546dba39fa8da224e8000467/train/javascript
 - Surrounding Primes for a value - 22. 05. 24
   - https://www.codewars.com/kata/560b8d7106ede725dd0000e2/train/javascript
+- Hex to base64 - 22. 05. 29
+  - https://www.codewars.com/kata/5b360fcc9212cb0cf300001f/train/javascript
