@@ -661,3 +661,7 @@
   - https://www.codewars.com/kata/560b8d7106ede725dd0000e2/train/javascript
 - Hex to base64 - 22. 05. 29
   - https://www.codewars.com/kata/5b360fcc9212cb0cf300001f/train/javascript
+
+  ##### [22년 7월]
+- Versions manager - 22. 07. 05
+  - https://www.codewars.com/kata/5bc7bb444be9774f100000c3/train/javascript
