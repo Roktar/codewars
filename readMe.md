@@ -665,3 +665,7 @@
   ##### [22년 7월]
 - Versions manager - 22. 07. 05
   - https://www.codewars.com/kata/5bc7bb444be9774f100000c3/train/javascript
+
+  ##### [22년 10월]
+- Function composition - 22. 10. 18
+  - https://www.codewars.com/kata/5655c60db4c2ce0c2e000026/train/javascript
