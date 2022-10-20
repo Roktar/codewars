@@ -669,3 +669,5 @@
   ##### [22년 10월]
 - Function composition - 22. 10. 18
   - https://www.codewars.com/kata/5655c60db4c2ce0c2e000026/train/javascript
+- String tops - 22. 10. 20
+  - https://www.codewars.com/kata/59b7571bbf10a48c75000070/train/javascript
