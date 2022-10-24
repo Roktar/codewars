@@ -671,3 +671,5 @@
   - https://www.codewars.com/kata/5655c60db4c2ce0c2e000026/train/javascript
 - String tops - 22. 10. 20
   - https://www.codewars.com/kata/59b7571bbf10a48c75000070/train/javascript
+- +1 Array - 22. 10. 24
+  - https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/train/javascript
