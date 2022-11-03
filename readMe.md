@@ -673,3 +673,7 @@
   - https://www.codewars.com/kata/59b7571bbf10a48c75000070/train/javascript
 - +1 Array - 22. 10. 24
   - https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/train/javascript
+
+  ##### [22년 11월]
+- RGB To Hex Conversion - 22. 11. 03
+  - https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript

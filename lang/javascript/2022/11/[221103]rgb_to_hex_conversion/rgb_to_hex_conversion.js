@@ -1,0 +1,1 @@
+const rgb = (r, g, b) => [r, g, b].map(v => v > 255 ? 'FF' : v <= 0 ? '00' : (v).toString(16).toUpperCase().padStart(2, '0')).join``;
