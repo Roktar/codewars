@@ -677,3 +677,7 @@
   ##### [22년 11월]
 - RGB To Hex Conversion - 22. 11. 03
   - https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
+
+  ##### [22년 12월]
+- PhoneWords - 22. 12. 29 ~ 30
+  - https://www.codewars.com/kata/635b8fa500fba2bef9189473/train/javascript
