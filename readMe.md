@@ -681,3 +681,7 @@
   ##### [22년 12월]
 - PhoneWords - 22. 12. 29 ~ 30
   - https://www.codewars.com/kata/635b8fa500fba2bef9189473/train/javascript
+
+  ##### [23년 1월]
+- Zero-plentiful Array
+  - https://www.codewars.com/kata/59e270da7997cba3d3000041/train/javascript
