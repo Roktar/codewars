@@ -683,5 +683,7 @@
   - https://www.codewars.com/kata/635b8fa500fba2bef9189473/train/javascript
 
   ##### [23년 1월]
-- Zero-plentiful Array
+- Zero-plentiful Array - 23. 01. 01
   - https://www.codewars.com/kata/59e270da7997cba3d3000041/train/javascript
+- Change it up - 23. 01. 03 ~ 04
+  - https://www.codewars.com/kata/58039f8efca342e4f0000023/train/javascript
