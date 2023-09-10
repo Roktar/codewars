@@ -687,3 +687,7 @@
   - https://www.codewars.com/kata/59e270da7997cba3d3000041/train/javascript
 - Change it up - 23. 01. 03 ~ 04
   - https://www.codewars.com/kata/58039f8efca342e4f0000023/train/javascript
+
+  ##### [23년 9월]
+- Simple Fun #305: Typist - 23. 09. 10
+  - https://www.codewars.com/kata/592645498270ccd7950000b4/train/javascript
