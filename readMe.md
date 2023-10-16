@@ -691,3 +691,7 @@
   ##### [23년 9월]
 - Simple Fun #305: Typist - 23. 09. 10
   - https://www.codewars.com/kata/592645498270ccd7950000b4/train/javascript
+
+##### [23년 10월]
+- Sort My Animals - 23. 10. 16
+  - https://www.codewars.com/kata/58ff1c8b13b001a5a50005b4/train/javascript
