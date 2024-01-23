@@ -699,3 +699,5 @@
   ##### [24년 01월]
 - Sum consecutives - 24. 01. 22
   - https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/javascript
+- The Hashtag Generator - 24. 01. 23
+  - https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript
