@@ -701,3 +701,5 @@
   - https://www.codewars.com/kata/55eeddff3f64c954c2000059/train/javascript
 - The Hashtag Generator - 24. 01. 23
   - https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript
+- Rot13 - 24. 01. 24
+  - https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript
