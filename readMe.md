@@ -703,3 +703,5 @@
   - https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript
 - Rot13 - 24. 01. 24
   - https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript
+- Alphabetized(재풀이) - 24. 01. 29
+  - https://www.codewars.com/kata/5970df092ef474680a0000c9/train/javascript
