@@ -705,3 +705,7 @@
   - https://www.codewars.com/kata/530e15517bc88ac656000716/train/javascript
 - Alphabetized(재풀이) - 24. 01. 29
   - https://www.codewars.com/kata/5970df092ef474680a0000c9/train/javascript
+
+  ##### [24년 02월]
+- Spelling Bee - 24. 02. 04
+  - https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee/train/javascript
