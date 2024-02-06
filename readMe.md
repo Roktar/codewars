@@ -709,3 +709,5 @@
   ##### [24년 02월]
 - Spelling Bee - 24. 02. 04
   - https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee/train/javascript
+- Find the missing letter - 24. 02. 06
+  - https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript
