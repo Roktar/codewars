@@ -711,3 +711,5 @@
   - https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee/train/javascript
 - Find the missing letter - 24. 02. 06
   - https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript
+- Moving Zeros To The End - 24. 02. 07
+  - https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
