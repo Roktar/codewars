@@ -713,3 +713,5 @@
   - https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript
 - Moving Zeros To The End - 24. 02. 07
   - https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
+- Even Fibonacci Sum - 24. 02. 14
+  - https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript
