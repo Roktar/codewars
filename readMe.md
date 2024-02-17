@@ -715,3 +715,5 @@
   - https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript
 - Even Fibonacci Sum - 24. 02. 14
   - https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript
+- Block Letter Printer - 24. 02. 17
+  - https://www.codewars.com/kata/6375587af84854823ccd0e90/train/javascript
