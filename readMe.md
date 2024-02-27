@@ -717,3 +717,5 @@
   - https://www.codewars.com/kata/55688b4e725f41d1e9000065/train/javascript
 - Block Letter Printer - 24. 02. 17
   - https://www.codewars.com/kata/6375587af84854823ccd0e90/train/javascript
+- Clever split - 24. 02. 27
+  - https://www.codewars.com/kata/5992e11d6ca73b38d50000f0/train/javascript
