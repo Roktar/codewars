@@ -719,3 +719,9 @@
   - https://www.codewars.com/kata/6375587af84854823ccd0e90/train/javascript
 - Clever split - 24. 02. 27
   - https://www.codewars.com/kata/5992e11d6ca73b38d50000f0/train/javascript
+
+  ##### [24년 03월]
+- How many elephants can the spider web hold? - 24. 03. 04
+  - https://www.codewars.com/kata/5830e55fa317216de000001b/train/javascript
+- Simple Fun #180: Repeat Adjacent - 24. 03. 19
+  - https://www.codewars.com/kata/58b8dccecf49e57a5a00000e/train/javascript
